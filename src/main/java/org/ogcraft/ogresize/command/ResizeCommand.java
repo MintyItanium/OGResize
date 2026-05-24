@@ -185,7 +185,7 @@ public class ResizeCommand implements CommandExecutor{
             sender.sendMessage(color("&fCreated by &dOJCream"));
             sender.sendMessage(color("&fVersion: " + version));
             sender.sendMessage(color("&fUsage: /resize | /resize [username] [size]"));
-            sender.sendMessage(color("&fDocumentation: https://github.com/OGCraftMC/OGScale"));
+            sender.sendMessage(color("&fDocumentation: https://github.com/OGCraftMC/OGResize"));
 
             return true;
         }
